@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 8f2cf9015673d4701829747edd740631
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 274627291798901908
+    second: Star,Fireball and Checkpoint sheet_0
+  - first:
+      213: 6846139406216437430
+    second: Star,Fireball and Checkpoint sheet_1
+  - first:
+      213: -4548387298036374568
+    second: Star,Fireball and Checkpoint sheet_2
+  - first:
+      213: -8438023183361090451
+    second: Star,Fireball and Checkpoint sheet_3
+  - first:
+      213: 9210034499637861826
+    second: Star,Fireball and Checkpoint sheet_4
+  - first:
+      213: 8391188351361875900
+    second: Star,Fireball and Checkpoint sheet_5
+  - first:
+      213: 8745580446726054662
+    second: Star,Fireball and Checkpoint sheet_6
+  - first:
+      213: -6002809035973187660
+    second: Star,Fireball and Checkpoint sheet_7
+  - first:
+      213: -6497865992210103019
+    second: Star,Fireball and Checkpoint sheet_8
+  - first:
+      213: -885762955500883058
+    second: Star,Fireball and Checkpoint sheet_9
+  - first:
+      213: -6922474944025061341
+    second: Star,Fireball and Checkpoint sheet_10
+  - first:
+      213: 1398239276422079714
+    second: Star,Fireball and Checkpoint sheet_11
+  - first:
+      213: -2841863760121388242
+    second: Star,Fireball and Checkpoint sheet_12
+  - first:
+      213: 7421549785206238607
+    second: Star,Fireball and Checkpoint sheet_13
+  - first:
+      213: 3579307888435024812
+    second: Star,Fireball and Checkpoint sheet_14
+  - first:
+      213: 8390722295340874501
+    second: Star,Fireball and Checkpoint sheet_15
+  - first:
+      213: -3916671765602961252
+    second: Star,Fireball and Checkpoint sheet_16
+  - first:
+      213: -3344798788197371499
+    second: Star,Fireball and Checkpoint sheet_17
+  - first:
+      213: 3532025840423747207
+    second: Star,Fireball and Checkpoint sheet_18
+  - first:
+      213: 2612041333824922870
+    second: Star,Fireball and Checkpoint sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 301
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941d4d111cafc300800000000000000
+      internalID: 274627291798901908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be955e748f520f50800000000000000
+      internalID: 6846139406216437430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a4afc9d1e0e0c0800000000000000
+      internalID: -4548387298036374568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 73
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c504d0f9e16ea80800000000000000
+      internalID: -8438023183361090451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdd100a49d90df70800000000000000
+      internalID: 9210034499637861826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff15ed85d737470800000000000000
+      internalID: 8391188351361875900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60365b9841b8e5970800000000000000
+      internalID: 8745580446726054662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 212
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7205c6cfcb1bca0800000000000000
+      internalID: -6002809035973187660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515c938ae41f2d5a0800000000000000
+      internalID: -6497865992210103019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e837b22f84325b3f0800000000000000
+      internalID: -885762955500883058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 159
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32818da17bd6eef90800000000000000
+      internalID: -6922474944025061341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e42326b63b876310800000000000000
+      internalID: 1398239276422079714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23a8ed87fbaf88d0800000000000000
+      internalID: -2841863760121388242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 106
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d28166534aef660800000000000000
+      internalID: 7421549785206238607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 89
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca35cef7f814ca130800000000000000
+      internalID: 3579307888435024812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 53
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b3ebeb875d17470800000000000000
+      internalID: 8390722295340874501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98fe65d7cf25a9c0800000000000000
+      internalID: -3916671765602961252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591b6504933e491d0800000000000000
+      internalID: -3344798788197371499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e35f3d9c6440130800000000000000
+      internalID: 3532025840423747207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star,Fireball and Checkpoint sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a54101c5df3420800000000000000
+      internalID: 2612041333824922870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Star,Fireball and Checkpoint sheet_0: 274627291798901908
+      Star,Fireball and Checkpoint sheet_1: 6846139406216437430
+      Star,Fireball and Checkpoint sheet_10: -6922474944025061341
+      Star,Fireball and Checkpoint sheet_11: 1398239276422079714
+      Star,Fireball and Checkpoint sheet_12: -2841863760121388242
+      Star,Fireball and Checkpoint sheet_13: 7421549785206238607
+      Star,Fireball and Checkpoint sheet_14: 3579307888435024812
+      Star,Fireball and Checkpoint sheet_15: 8390722295340874501
+      Star,Fireball and Checkpoint sheet_16: -3916671765602961252
+      Star,Fireball and Checkpoint sheet_17: -3344798788197371499
+      Star,Fireball and Checkpoint sheet_18: 3532025840423747207
+      Star,Fireball and Checkpoint sheet_19: 2612041333824922870
+      Star,Fireball and Checkpoint sheet_2: -4548387298036374568
+      Star,Fireball and Checkpoint sheet_3: -8438023183361090451
+      Star,Fireball and Checkpoint sheet_4: 9210034499637861826
+      Star,Fireball and Checkpoint sheet_5: 8391188351361875900
+      Star,Fireball and Checkpoint sheet_6: 8745580446726054662
+      Star,Fireball and Checkpoint sheet_7: -6002809035973187660
+      Star,Fireball and Checkpoint sheet_8: -6497865992210103019
+      Star,Fireball and Checkpoint sheet_9: -885762955500883058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
