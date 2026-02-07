@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+
+# Unity cache
+MemoryCaptures/
