@@ -8,7 +8,8 @@ public class CrocController : MonoBehaviour
 
     [Header("Movement")]
     public float baseMoveSpeed = 5f;
-    public float moveSpeedPerLevel = 1.5f;
+    public float moveSpeedPerLevel = 2f;
+    private float currentMoveSpeed;
 
     [Header("Dropping")]
     public float dropGravity = 6f;
@@ -19,7 +20,6 @@ public class CrocController : MonoBehaviour
     public GameManager gm;
 
     private int moveDir = 1; // 1 = right, -1 = left
-    private float currentMoveSpeed;
     private bool hasLanded = false;
 
     private void Reset()
@@ -102,4 +102,12 @@ public class CrocController : MonoBehaviour
         }
     } //debug
     
+    private void OnDisable()
+    {
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.gravityScale = 0f;
+        }
+    }
 }
